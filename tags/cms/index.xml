@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CMS on Anna Hanna Sarah</title>
+    <link>http://example.com/tags/cms/</link>
+    <description>Recent content in CMS on Anna Hanna Sarah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.com/tags/cms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Benefits vs. Drawbacks of Static Website Generators?</title>
+      <link>http://example.com/post/migrate-from-jekyll/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/migrate-from-jekyll/</guid>
+      <description> Benefits  Building websites for static content (that doesn’t change regularly) Website Producer can focus on content instead of plain HTML because of a simple editing syntax Design can be done separately  Drawbacks:  Website Producer has to be at least a bit tech-savvy Maintenance is difficult No search capability - to find something you have to read through the page No user interaction  </description>
+    </item>
+    
+    <item>
+      <title> What is a Content Management System (CMS)?</title>
+      <link>http://example.com/post/goisforlovers/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/goisforlovers/</guid>
+      <description>Content Management System (CMS) A content management system (CMS) is a software application that can be used to manage the creation and modification of digital content without any coding. CMSs are typically used for enterprise content management (ECM) and web content management (WCM). ECM typically supports multiple users in a collaborative environment by integrating document management, digital asset management and record retention. Alternatively, WCM is the collaborative authoring for websites and may include text and embed graphics, photos, video, audio, maps and programme code that display content and interact with the user.</description>
+    </item>
+    
+  </channel>
+</rss>

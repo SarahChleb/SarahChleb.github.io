@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project on Anna Hanna Sarah</title>
+    <link>http://example.com/tags/project/</link>
+    <description>Recent content in project on Anna Hanna Sarah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First COS19 Project </title>
+      <link>http://example.com/creating-a-new-theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/creating-a-new-theme/</guid>
+      <description>Can&amp;rsquo;t wait what it will be about.</description>
+    </item>
+    
+  </channel>
+</rss>

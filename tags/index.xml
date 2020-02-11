@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Anna Hanna Sarah</title>
+    <link>http://example.com/tags/</link>
+    <description>Recent content in Tags on Anna Hanna Sarah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamic</title>
+      <link>http://example.com/tags/dynamic/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static</title>
+      <link>http://example.com/tags/static/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>http://example.com/tags/website/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generator</title>
+      <link>http://example.com/tags/generator/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://example.com/tags/hugo/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefits vs. Drawbacks</title>
+      <link>http://example.com/tags/benefits-vs.-drawbacks/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/benefits-vs.-drawbacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMS</title>
+      <link>http://example.com/tags/cms/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stactic</title>
+      <link>http://example.com/tags/stactic/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/stactic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content_management_system</title>
+      <link>http://example.com/tags/content_management_system/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/content_management_system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bootstrap</title>
+      <link>http://example.com/tags/bootstrap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COS</title>
+      <link>http://example.com/tags/cos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/cos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>http://example.com/tags/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>http://example.com/tags/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>http://example.com/tags/golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>highlight-js</title>
+      <link>http://example.com/tags/highlight-js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/highlight-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>http://example.com/tags/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>js</title>
+      <link>http://example.com/tags/js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>http://example.com/tags/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>responsive</title>
+      <link>http://example.com/tags/responsive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/responsive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax-highlighting</title>
+      <link>http://example.com/tags/syntax-highlighting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/tags/syntax-highlighting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
